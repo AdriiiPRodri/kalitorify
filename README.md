@@ -24,7 +24,7 @@ In simple terms, with kalitorify you can redirect all traffic of your Kali Linux
 
 ## What is Tor?
 
-if you don't know the Tor Network and the Tor Project (but even if you know them), I suggest you read the information from here:
+If you don't know the Tor Network and the Tor Project (but even if you know them), I suggest you read the information from here:
 
 Tor Anonimity Network on [Wikipedia](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29)
 
